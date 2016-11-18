@@ -13,3 +13,6 @@ Las caracteristicas de este proyecto son:
 4. Adaptado para celulares
 
 **Creado por: Ekix003**
+
+
+***Husky***
